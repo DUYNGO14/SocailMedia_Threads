@@ -1,14 +1,15 @@
 Feature List:
 
 -   🌟 Tech stack: MERN + Socket.io + Chakra UI
--   🎃 Authentication & Authorization with JWT
--   💬 Send email verify account and change password
+-   🎃 Authentication & Authorization with JWT , login with Google and Facebook
+-   ✈ Send email verify account and change password
 -   📝 Create Post
 -   🗑️ Delete Post
 -   ❤️ Like/Unlike Post
 -   💬 Comment to a Post
 -   👥 Follow/Unfollow Users
 -   ❄️ Freeze Your Account
+-   💧 Change password
 -   🌓 Dark/Light Mode
 -   📱 Completely Responsive
 -   💬 Chat App With Image Support
